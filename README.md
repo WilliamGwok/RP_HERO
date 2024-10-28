@@ -24,16 +24,20 @@
 
 ## Heroslave 下主控实车代码
 
-<img src="https://github.com/WilliamGwok/RP_Balance/blob/main/Figures/Webots/PixPin_2024-10-22_23-50-17.png" width="410px">
+[下主控主要代码](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroSlave/User)
 
-[仿真主要代码](https://github.com/WilliamGwok/RP_Balance/tree/main/Webots/LinkLinkGo/controllers/Eva_Test_02)
-| 文件名 | 功能 |
-|---|---|
-| Config | 仿真环境设置，机器人机械参数设置等 |
-| Device | 电机，编码器，imu等设备 |
-| Model | 机器人模型分层，包括直腿模型，虚拟腿力计算等 |
-| Algorithm | pid算法，五连杆解算 |
-| Robot | 机器人顶层控制代码 |
+下主控的主要任务是收取于转发裁判系统数据，并向其发送UI信息。以下只列出区别于上主控部分的内容。
+
+| 文件名 | 功能 | 文件链接 |
+|---|---|---|
+| rpui | UI的图像输出，内容更新等 | [UI](https://github.com/WilliamGwok/RP_HERO/blob/main/HeroSlave/User/rpui/UI.c) |
+
+可以在我的主页查看我fork的Priority_UI项目，这是实验室24年更新后的UI代码，拥有更优秀的优先级机制。
+
+## Outpost 场地道具_前哨站代码
+
+该部分代码较为简单，不做说明。
+
 
 ## 测试视频
 [More Test Videos](https://github.com/WilliamGwok/RP_Balance/tree/main/Test_Video)
