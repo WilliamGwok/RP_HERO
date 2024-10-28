@@ -46,24 +46,10 @@
 ## 测试视频
 [More Test Videos](https://github.com/WilliamGwok/RP_Balance/tree/main/Test_Video)
 
+<p align="center">底盘功能测试。</p>
 https://github.com/user-attachments/assets/981f2a2e-17d2-4cb0-a21d-21c682b7ae14
-
+<p align="center">功率限制下机器人飞坡测试。</p>
 https://github.com/user-attachments/assets/3c661f7d-0a61-4ac3-bc00-6929a2dadf31
-
+<p align="center">视觉识别，跟随。</p>
 https://github.com/user-attachments/assets/26ab51b6-4f9d-45a8-b156-4b01cc7bc2f1
 
-## 调车血泪史
-
-#### 贯穿始终的烧保护
-24年因为实验室硬件断代，很长的一段时间里电机保护是用一个烧一个，有几次甚至烧出明火了。
-后面是老队员帮忙才有了较为稳定的保护。国赛还烧碳板，原因是有硅胶线破皮了（即使套了蛇皮管）。
-
-<div align=center>
-<img src="https://github.com/WilliamGwok/RP_Balance/blob/main/Figures/%E5%A4%87%E8%B5%9B%E8%AE%B0%E5%BD%95/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202410252158021.jpg" width="300px">
-</div>
-
-#### 电机损坏
-因为机械新队员缺乏经验，他在固定电机时夹了块打印件。
-这块打印件在调试过程中因电机发热或振动产生形变，导致后续维护的时候螺丝拧进了电机线圈。
-
-https://github.com/user-attachments/assets/464f6e4d-6a7e-44c8-b6e9-2862852114d7
