@@ -7,15 +7,22 @@
 <br>
 <p align="center">本项目为本人于2022~2023年在深圳大学RobotPilots实验室完成，供实验室新队员学习参考用。若有错误之处，欢迎指出。</p>
 
-## 建模与控制器设计
+## 上主控实车代码
+
+[上主控主要代码](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application)
 
 | 文件名 | 功能 | 文件链接 |
 |---|---|---|
-| HEU_Model | 基于哈工程模型的数学建模与控制器设计 | [HEU](https://github.com/WilliamGwok/RP_Balance/tree/main/MatlabWorks/HEU_Model) |
-| SJTU_Model | 全身建模与控制器设计，五连杆解算，增益矩阵拟合，AB矩阵拟合 | [SJTU](https://github.com/WilliamGwok/RP_Balance/tree/main/MatlabWorks/SJTU_Model) |
-| Webots_Data_Estimate | 用于分析仿真读取的数据 | [DATA](https://github.com/WilliamGwok/RP_Balance/tree/main/MatlabWorks/Webots_Data_Estimate) |
+| Configs | 一些硬件模块的设置，如CAN，串口等 | [Con](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Configs) |
+| Devices | Imu,遥控器相关代码 | [Dev](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Devices) |
+| Drivers | 硬件驱动代码 | [Dri](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Drivers) |
+| Hardwares | 机器人底盘，云台，发射机构的电机设置 | [Har](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Hardwares) |
+| Modules | 机器人各模块控制代码 | [Mod](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Modules) |
+| Protocols | 通信协议 | [Pro](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Protocols) |
+| Supports | 算法功能包 | [Sup](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Supports) |
+| Tasks | 整车任务 | [Tas](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Tasks) |
 
-## 仿真
+## 下主控实车代码
 
 <img src="https://github.com/WilliamGwok/RP_Balance/blob/main/Figures/Webots/PixPin_2024-10-22_23-50-17.png" width="410px">
 
