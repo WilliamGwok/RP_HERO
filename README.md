@@ -40,7 +40,7 @@
 
 ## 赛季总结
 
-总结了一些调试过程中遇到的一些经验性问题和对该机器人的优化方向
+总结了一些调试过程中遇到的经验性问题和对该机器人的优化方向
  [pdf](https://github.com/WilliamGwok/RP_HERO/blob/main/2023%E5%B9%B4%E8%8B%B1%E9%9B%84%E8%B5%9B%E5%AD%A3%E6%80%BB%E7%BB%93.pdf)
 
 ## 测试视频
