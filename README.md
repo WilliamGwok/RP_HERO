@@ -44,7 +44,6 @@
  [pdf](https://github.com/WilliamGwok/RP_HERO/blob/main/2023%E5%B9%B4%E8%8B%B1%E9%9B%84%E8%B5%9B%E5%AD%A3%E6%80%BB%E7%BB%93.pdf)
 
 ## 测试视频
-[More Test Videos](https://github.com/WilliamGwok/RP_Balance/tree/main/Test_Video)
 
 <p align="center">底盘功能测试。</p>
 
