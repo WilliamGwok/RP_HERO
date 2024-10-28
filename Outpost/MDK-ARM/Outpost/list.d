@@ -1,0 +1,12 @@
+outpost\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+outpost\list.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+outpost\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+outpost\list.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+outpost\list.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+outpost\list.o: ../Core/Inc/FreeRTOSConfig.h
+outpost\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+outpost\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+outpost\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+outpost\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+outpost\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+outpost\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

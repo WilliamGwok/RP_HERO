@@ -1,0 +1,26 @@
+/*
+需要判断比赛状态（裁判系统状态）：
+整车复位      Hero_Init(void)
+遥控通道归零  Remote_Start_Safely(rc_t *rc)
+摩擦轮初始化  L_Init
+为方便调试注释了main看门狗的初始化
+*/
+
+2023/7/15 
+初始化跳变状态     	1
+进不了sleep_mode;	1
+
+2023/7/20
+全车指令清零
+
+
+
+pitch 角度 -299
+p 28 dia 0
+
+pitch 0
+p 0
+
+
+pitch 200 / 400
+dial 6500

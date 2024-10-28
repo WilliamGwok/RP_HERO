@@ -1,0 +1,15 @@
+outpost\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+outpost\timers.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+outpost\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+outpost\timers.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+outpost\timers.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+outpost\timers.o: ../Core/Inc/FreeRTOSConfig.h
+outpost\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+outpost\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+outpost\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+outpost\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+outpost\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+outpost\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+outpost\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+outpost\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+outpost\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

@@ -1,0 +1,12 @@
+herobase\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+herobase\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+herobase\port.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+herobase\port.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+herobase\port.o: ../Core/Inc/FreeRTOSConfig.h
+herobase\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+herobase\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+herobase\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+herobase\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+herobase\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+herobase\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+herobase\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

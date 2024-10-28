@@ -1,0 +1,13 @@
+outpost\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+outpost\heap_4.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+outpost\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+outpost\heap_4.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+outpost\heap_4.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+outpost\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+outpost\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+outpost\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+outpost\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+outpost\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+outpost\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+outpost\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+outpost\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

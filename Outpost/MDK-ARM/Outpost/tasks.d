@@ -1,0 +1,16 @@
+outpost\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+outpost\tasks.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+outpost\tasks.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h
+outpost\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+outpost\tasks.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+outpost\tasks.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+outpost\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+outpost\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+outpost\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+outpost\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+outpost\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+outpost\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+outpost\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+outpost\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+outpost\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+outpost\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
