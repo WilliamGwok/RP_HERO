@@ -7,7 +7,7 @@
 <br>
 <p align="center">本项目为本人于2022~2023年在深圳大学RobotPilots实验室完成，供实验室新队员学习参考用。若有错误之处，欢迎指出。</p>
 
-## 上主控实车代码
+## HeroMater 上主控实车代码
 
 [上主控主要代码](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application)
 
@@ -22,7 +22,7 @@
 | Supports | 算法功能包 | [Sup](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Supports) |
 | Tasks | 整车任务 | [Tas](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Tasks) |
 
-## 下主控实车代码
+## Heroslave 下主控实车代码
 
 <img src="https://github.com/WilliamGwok/RP_Balance/blob/main/Figures/Webots/PixPin_2024-10-22_23-50-17.png" width="410px">
 
@@ -40,10 +40,9 @@
 #### 仿真测试
 
 
-https://github.com/user-attachments/assets/7b33e5dd-0533-4bbb-9497-3062cb68b34d
 
 #### 实车测试
-https://github.com/user-attachments/assets/42d3e697-0503-4a66-8977-5c767b99fcbf
+
 
 ## 实车调试细节
 
