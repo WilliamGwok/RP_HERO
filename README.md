@@ -47,9 +47,14 @@
 [More Test Videos](https://github.com/WilliamGwok/RP_Balance/tree/main/Test_Video)
 
 <p align="center">底盘功能测试。</p>
+
 https://github.com/user-attachments/assets/981f2a2e-17d2-4cb0-a21d-21c682b7ae14
+
 <p align="center">功率限制下机器人飞坡测试。</p>
+
 https://github.com/user-attachments/assets/3c661f7d-0a61-4ac3-bc00-6929a2dadf31
+
 <p align="center">视觉识别，跟随。</p>
+
 https://github.com/user-attachments/assets/26ab51b6-4f9d-45a8-b156-4b01cc7bc2f1
 
