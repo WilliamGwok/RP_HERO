@@ -1,0 +1,59 @@
+# RP_Hero
+
+## Introduction
+
+<div align="center">
+<img src="https://github.com/WilliamGwok/RP_HERO/blob/main/Figure_and_Video/Figure/Fig_1.jpg" width="710px">
+</div>
+<br>
+<p align="center">This project was completed in the RobotPilots Lab at Shenzhen University during 2022-2023. It is intended as a learning reference for new lab members. Feedback on any errors is welcome.</p>
+
+## HeroMaster Main Control Code
+
+[Main Control Code](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application)
+
+| File Name | Function | File Link |
+|---|---|---|
+| Configs | Configuration for hardware modules such as CAN, serial ports, etc. | [Con](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Configs) |
+| Devices | Code related to IMU and remote controller | [Dev](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Devices) |
+| Drivers | Hardware driver code | [Dri](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Drivers) |
+| Hardwares | Motor configurations for the robot chassis, gimbal, and launching mechanism | [Har](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Hardwares) |
+| Modules | Control code for various robot modules | [Mod](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Modules) |
+| Protocols | Communication protocols | [Pro](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Protocols) |
+| Supports | Algorithm function packages | [Sup](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Supports) |
+| Tasks | Full vehicle tasks | [Tas](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Tasks) |
+
+## HeroSlave Secondary Control Code
+
+[Secondary Control Code](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroSlave/User)
+
+The main task of the secondary controller is to receive and forward data from the referee system and send UI information. Below are the components specific to the secondary controller.
+
+| File Name | Function | File Link |
+|---|---|---|
+| rpui | Handles UI graphics output, content updates, etc. | [UI](https://github.com/WilliamGwok/RP_HERO/blob/main/HeroSlave/User/rpui/UI.c) |
+
+You can check my fork of the **Priority_UI** project on my GitHub homepage. This is the lab’s updated UI code for 2024, featuring a more advanced priority mechanism.
+
+## Outpost - Field Props and Outpost Code
+
+This section involves simple code and will not be detailed here.
+
+## Season Summary
+
+Summarizes the experience and challenges faced during debugging and provides optimization directions for the robot.  
+[PDF Summary](https://github.com/WilliamGwok/RP_HERO/blob/main/2023%E5%B9%B4%E8%8B%B1%E9%9B%84%E8%B5%9B%E5%AD%A3%E6%80%BB%E7%BB%93.pdf)
+
+## Test Videos
+
+<p align="center">Chassis functionality test.</p>
+
+https://github.com/user-attachments/assets/981f2a2e-17d2-4cb0-a21d-21c682b7ae14
+
+<p align="center">Robot ramp test under power limitation.</p>
+
+https://github.com/user-attachments/assets/3c661f7d-0a61-4ac3-bc00-6929a2dadf31
+
+<p align="center">Visual recognition and following test.</p>
+
+https://github.com/user-attachments/assets/26ab51b6-4f9d-45a8-b156-4b01cc7bc2f1
