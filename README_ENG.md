@@ -12,16 +12,16 @@
 
 [Main Control Code](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application)
 
-| File Name | Function | File Link |
-|---|---|---|
-| Configs | Configuration for hardware modules such as CAN, serial ports, etc. | [Con](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Configs) |
-| Devices | Code related to IMU and remote controller | [Dev](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Devices) |
-| Drivers | Hardware driver code | [Dri](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Drivers) |
+| File Name | Function                                                     | File Link                                                    |
+| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Configs   | Configuration for hardware modules such as CAN, serial ports, etc. | [Con](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Configs) |
+| Devices   | Code related to IMU and remote controller                    | [Dev](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Devices) |
+| Drivers   | Hardware driver code                                         | [Dri](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Drivers) |
 | Hardwares | Motor configurations for the robot chassis, gimbal, and launching mechanism | [Har](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Hardwares) |
-| Modules | Control code for various robot modules | [Mod](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Modules) |
-| Protocols | Communication protocols | [Pro](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Protocols) |
-| Supports | Algorithm function packages | [Sup](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Supports) |
-| Tasks | Full vehicle tasks | [Tas](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Tasks) |
+| Modules   | Control code for various robot modules                       | [Mod](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Modules) |
+| Protocols | Communication protocols                                      | [Pro](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Protocols) |
+| Supports  | Algorithm function packages                                  | [Sup](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Supports) |
+| Tasks     | Full vehicle tasks                                           | [Tas](https://github.com/WilliamGwok/RP_HERO/tree/main/HeroMaster/Application/Tasks) |
 
 ## HeroSlave Secondary Control Code
 
@@ -29,9 +29,9 @@
 
 The main task of the secondary controller is to receive and forward data from the referee system and send UI information. Below are the components specific to the secondary controller.
 
-| File Name | Function | File Link |
-|---|---|---|
-| rpui | Handles UI graphics output, content updates, etc. | [UI](https://github.com/WilliamGwok/RP_HERO/blob/main/HeroSlave/User/rpui/UI.c) |
+| File Name | Function                                          | File Link                                                    |
+| --------- | ------------------------------------------------- | ------------------------------------------------------------ |
+| rpui      | Handles UI graphics output, content updates, etc. | [UI](https://github.com/WilliamGwok/RP_HERO/blob/main/HeroSlave/User/rpui/UI.c) |
 
 You can check my fork of the **Priority_UI** project on my GitHub homepage. This is the lab’s updated UI code for 2024, featuring a more advanced priority mechanism.
 
